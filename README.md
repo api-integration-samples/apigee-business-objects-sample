@@ -1,5 +1,5 @@
 # Apigee Business Objects Sample
-This is a sample project of business objects (similar to SAP data in REST format), deployed to a Cloud Run service, and offered through Apigee APIs.
+This is a sample project of business objects (similar to SAP data in REST format), deployed to a Cloud Run service, and offered through an Apigee API.
 
 ## Deployment
 Deployment is very simple with the **gcloud** CLI installed.
